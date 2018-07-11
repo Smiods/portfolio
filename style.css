@@ -1,0 +1,70 @@
+.row {
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+
+.headshot {
+    width:20%;
+}
+
+.mid {
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.aboutme {
+    border:1px solid black;   
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Markazi Text', serif;
+}
+
+.center {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Chela One', cursive;
+}
+
+.contact {
+    font-family: 'Lobster', cursive;
+    }
+
+img {
+    width: 100%;
+}
+
+#xinWang:hover {
+    color: #7d848e;
+}
+
+#aboutMe:hover {
+    color: #7d848e;
+}
+
+#portfolio:hover {
+    color: #7d848e;
+}
+
+#contact:hover {
+    color: #7d848e;
+}
+
+.text {
+    font-family: 'Dosis', sans-serif;
+    font-size: 18px;
+    margin-left: 36px;
+    margin-right: 36px;
+    margin-top: 24px;
+}
+
+a {
+    color: white;
+}
