@@ -74,6 +74,6 @@ a {
 }
 
 #project {
-    color: black;
     text-decoration: none;
+    background: black;
 }
